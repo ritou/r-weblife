@@ -1,4 +1,5 @@
-r-weblife
+r-weblife wiki
 =========
+[https://github.com/ritou/r-weblife/wiki](https://github.com/ritou/r-weblife/wiki)
 
-ritou&#39;s Tech Wiki and Samples
+This is a repository for ritou&#39;s tech wiki and samples.
